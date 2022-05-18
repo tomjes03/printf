@@ -126,5 +126,5 @@ You don’t have to handle the length modifiers.
 About
 All files were created and compiled on Ubuntu 14.04.4 LTS using GCC 4.8.4
 
-Authors
-Rachel Ojeba and Thomas Jesus
+Authors:
+Rachel Ojeba, and Thomas Jesus.
