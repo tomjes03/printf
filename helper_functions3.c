@@ -1,5 +1,6 @@
 #include "main.h"
-/**
+
+/*
  * _print_binary - function that prints a binary number from int
  * @ap: the action pointer
  *
@@ -21,7 +22,7 @@ count += _putchar(s[i]);
 return (count);
 }
 
-/**
+/*
  * _print_hex_u - function that prints a hex number from int
  * @ap: the action pointer
  *
@@ -43,7 +44,7 @@ count += _putchar(s[i]);
 return (count);
 }
 
-/**
+/*
  * _print_hex_l - function that prints a hex number from int
  * @ap: the action pointer
  *
@@ -69,3 +70,4 @@ count += _putchar(s[i]);
 }
 return (count);
 }
+
