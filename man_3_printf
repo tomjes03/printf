@@ -115,5 +115,4 @@ return (0);
 .SH Notes
 All files and code used to create _printf were created and compiled on Ubuntu 20.04.4 LTS using GCC 4.8.4
 .SH SEE ALSO
-man 3 printf, printf(1)
-
+man 3 printf, printf(2)
